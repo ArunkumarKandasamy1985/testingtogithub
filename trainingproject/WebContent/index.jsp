@@ -8,5 +8,6 @@
 </head>
 <body>
 	<p>Welcome to first git projects</p>
+	<b>Sample project to upload into git repository</b>
 </body>
 </html>
