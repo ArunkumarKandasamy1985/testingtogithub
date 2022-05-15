@@ -9,6 +9,5 @@
 <body>
 	<p>Welcome to first git projects</p>
 	<b>Sample project to upload into git repository</b>
-	<b>Good</b>
 </body>
 </html>
