@@ -3,8 +3,10 @@ package testingtogithub;
 public class FirstFile {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Welcome to Git Hub");
+		int a = 3;
+		int b = 2;
+		int total = a + b; 
+		System.out.println("Total value is: "+total);
 
 	}
 
