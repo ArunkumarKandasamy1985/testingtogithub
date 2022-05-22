@@ -6,7 +6,7 @@ public class SampleToGitHub {
 		
 		int a = 3;
 		int b = 2;
-		int total = a + b;
+		int total = a * b;
 		System.out.println("Total Value is: "+total);
 	}
 
