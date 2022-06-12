@@ -18,6 +18,7 @@ public class SampleToGitHub {
 		
 			ResultSet rs = ps.executeQuery();
 			while(rs.next()) {
+				System.out.println("Database connected");
 				System.out.println(rs.getString("id"));
 				System.out.println(rs.getString("name"));
 			}
